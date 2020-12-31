@@ -1,1 +1,3 @@
 # YTplaylist-to-MP3
+python script :-
+Give a playlist link as input... and it will gonna download all the videos(from playlist) as mp3 file...
